@@ -5,6 +5,6 @@ I have modified the quote generator project by adding the option : Copy to clipb
 #Sample output
 ![Quote generator](./img/Quote_sample.png)
 
-#Preview
+#Visit the project
 
 [View Project](https://vigneshg1616.github.io/Quote_Generator_Modified/)
