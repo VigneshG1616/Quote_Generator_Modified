@@ -2,9 +2,9 @@
 I have modified the quote generator project by adding the option : Copy to clipboard.
 
 
-#Sample output
+## Sample output
 ![Quote generator](./img/Quote_sample.png)
 
-#Visit the project
+## Visit the project
 
 [View Project](https://vigneshg1616.github.io/Quote_Generator_Modified/)
